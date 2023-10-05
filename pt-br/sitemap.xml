@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.example.com/pt-br/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://www.example.com/pt-br/"
+                />
+  </url><url>
     <loc>http://www.example.com/pt-br/authors/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -58,19 +71,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="http://www.example.com/pt-br/posts/markdown-syntax/"
-                />
-  </url><url>
-    <loc>http://www.example.com/pt-br/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
                 />
   </url><url>
     <loc>http://www.example.com/pt-br/tags/html/</loc>
